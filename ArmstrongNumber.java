@@ -7,7 +7,7 @@ public class ArmstrongNumber {
         int number = scanner.nextInt();
         
         if (isArmstrong(number)) {
-            System.out.println(number + " is an Armstrong number.");
+            System.out.println(number + " is an Armstrong number new.");
         } else {
             System.out.println(number + " is not an Armstrong number.");
         }
